@@ -2,6 +2,7 @@ baseURL = 'https://ammacmahon.github.io/'
 languageCode = 'en-us'
 title = 'Anthony MacMahon'
 theme = 'hugo-PaperMod-master'
+publishDir = "docs"
 
 enableInlineShortcodes = true
 enableRobotsTXT = true
