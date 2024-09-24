@@ -1,6 +1,7 @@
 ---
 title: 'Pretextual Planning'
 date: 2024-09-02T19:46:35-04:00
+tags: ['Planning','Policy','Politics','Housing']
 ---
 
 Sean Galbraith and [Strong Towns](https://www.strongtowns.org/journal/2021/4/29/pretextual-planning-is-absolutely-everywhere) have both talked about pretextual planning. Pretextual planning is fairly self explanatory - a city (or other level of government, or maybe a private business or NGO) creates a plan, and elements of that plan are a pretext for doing something else.

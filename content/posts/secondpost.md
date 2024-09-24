@@ -1,6 +1,7 @@
 ---
 title: 'What is a left-wing party?'
 date: 2024-09-04T14:20:09-04:00
+tags: ['Politics','NDP']
 ---
 
 I’ve been reading some posts by David Moscrop, who I greatly admire, as well as Edward Row, who I also really like, discussing who exactly is left and right in Canadian electoral politics.

@@ -1,6 +1,7 @@
 ---
 title: 'The Failure of Opinion Polling'
 date: 2024-09-10T21:16:22-04:00
+tags: ['Politics']
 ---
 
 Jamelle Bouie posted on BlueSky about issue polling being the worst thing that has happened to progressives. When Jamelle posts something, a lot of people inevitably get mad, so I’m not sure if the post is still up. But he followed it up with the idea that progressives look at issue polls, see that people generally agree with them on a given poll, and commit to mobilization strategy rather than persuasion and coalition building.
